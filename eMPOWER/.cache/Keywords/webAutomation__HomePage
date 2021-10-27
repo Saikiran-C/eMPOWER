@@ -1,0 +1,46 @@
+{
+  "keywordFileContentHash": "85B0022F8E6DB8FBC2539A17DBE9AEEE",
+  "keywordClasses": [
+    {
+      "name": "webAutomation.HomePage",
+      "keywordMethods": [
+        {
+          "name": "navigateToCreateNewOrderPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickSignoutButtonInUserProfile",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickOnEmt",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickOnOrderManagement",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickOnCreateNewOrder",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickUserProfile",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickSignout",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

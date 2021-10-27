@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EM 04-Create new order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f158c967-7095-4825-ba3e-39c98a7643ba</testCaseGuid>
+   <variable>
+      <defaultValue>'kiran'</defaultValue>
+      <description></description>
+      <id>3525901d-87df-4c18-b772-4c4b38d0e46c</id>
+      <masked>false</masked>
+      <name>uname</name>
+   </variable>
+</TestCaseEntity>

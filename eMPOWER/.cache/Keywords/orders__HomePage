@@ -1,0 +1,49 @@
+{
+  "keywordFileContentHash": "205B50FA7B931276D1C64D0B7384408F",
+  "keywordClasses": [
+    {
+      "name": "orders.HomePage",
+      "keywordMethods": [
+        {
+          "name": "navigateToCreateNewOrderPage",
+          "parameters": []
+        },
+        {
+          "name": "clickOnEmt",
+          "parameters": []
+        },
+        {
+          "name": "clickOnOrderManagement",
+          "parameters": []
+        },
+        {
+          "name": "clickOnCreateNewOrder",
+          "parameters": []
+        },
+        {
+          "name": "clickSelectButtonOfCustomer",
+          "parameters": [
+            {
+              "name": "customerName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "verifyChooseCustomerTable",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EM 17-Validate cancel button without filling details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0ca015c-1573-4497-b1e2-decf2516396c</testCaseGuid>
+</TestCaseEntity>

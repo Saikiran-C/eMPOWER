@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EM 06-Validate error message without selecting payment options</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eca11b71-6479-4fa7-b1a3-bdc25913e521</testCaseGuid>
+</TestCaseEntity>

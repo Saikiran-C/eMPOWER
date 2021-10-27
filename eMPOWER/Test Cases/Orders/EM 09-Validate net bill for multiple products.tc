@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EM 09-Validate net bill for multiple products</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdb8e7a0-21c9-4da3-a3af-97356c20f082</testCaseGuid>
+</TestCaseEntity>

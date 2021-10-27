@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EM 12-Validate error message without adding quantity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a1ba248-a427-468f-9a56-0f7daab4bc40</testCaseGuid>
+</TestCaseEntity>
